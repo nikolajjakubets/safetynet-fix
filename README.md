@@ -69,6 +69,8 @@ The keystore executables and libraries in this repository were built with the co
 - Android 10:  
   arm64 : Built from LineageOS 17.1 (android-10.0.0_r41) for `taimen`  
   arm32 : Built from Nusantara-Rom (android-10.0.0_r41) for `cactus`
-- Android 9: Built from AOSP android-9.0.0_r61 for `taimen`
+- Android 9:  
+  arm64 : Built from AOSP android-9.0.0_r61 for `taimen`  
+  arm32 : Built from AOSP android-9.0.0_r61 for `cactus`
 - Android 8.1: Built from AOSP android-8.1.0_r81 for `taimen`
 - Android 8.0: Built from AOSP android-8.0.0_r51 for `marlin`
